@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Kutay AKPINAR</h1>
+<h3 align="center">I am 3rd year computer engineering student.</h3>
+- 🔭 I’m currently working on **Full-Stack projects.**
+- 🌱 I’m currently learning **JavaScript,Spring Boot and React.**
 - 💬 Ask me about **everything you want**
 - 📫 How to reach me **kutayakpnar@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/kutay-akpınar-4a6902197/](https://www.linkedin.com/in/kutay-akpınar-4a6902197/)
