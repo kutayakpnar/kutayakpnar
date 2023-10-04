@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kutay AKPINAR</h1>
-<h3 align="center">I am 3rd year computer engineering student.</h3>
+<h3 align="center">I am 4th year computer engineering student.</h3>
 
 - 🔭 I’m currently working on **Full-Stack projects.**
 
