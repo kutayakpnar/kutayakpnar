@@ -1,4 +1,4 @@
-# 💫 Hi! I am Kutay:
+# 💫 Hi! I am Kutay
 🔭 I’m currently working on developing scalable full-stack web applications and improving my expertise in microservice architecture.<br><br>👯 I’m looking to collaborate on innovative open-source projects, especially those involving modern web technologies and microservices.<br><br>🤝 I’m looking for help with mastering advanced DevOps practices and cloud-native solutions.<br><br>🌱 I’m currently learning advanced concepts in Kubernetes, Docker, and serverless computing to enhance my microservices architecture skills.<br><br>💬 Ask me about full-stack development, RESTful APIs, microservices, and any exciting new tech trends!<br><br>⚡ Fun fact: I love solving complex coding puzzles and challenges in my free time. It keeps my problem-solving skills sharp and my mind engaged!
 
 
